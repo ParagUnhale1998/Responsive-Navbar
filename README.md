@@ -6,7 +6,7 @@ This code represents a responsive navbar implemented using HTML, CSS, and JavaSc
 ```
 
 1) The code defines the basic structure of an HTML document, including a navbar component.
-2 )CSS styling is applied to the HTML elements to control their appearance and layout.
+2) CSS styling is applied to the HTML elements to control their appearance and layout.
 3) The navbar has a brand title, toggle button, and a list of navigation links.
 4) Media queries are used to apply specific CSS rules based on the screen width.
 5) When the screen width is less than 500 pixels, the navbar collapses into a mobile-friendly layout.
